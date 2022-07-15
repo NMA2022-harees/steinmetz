@@ -9,3 +9,4 @@ brain_groups = [
     ["ACB", "CP", "GPe", "LS", "LSc", "LSr", "MS", "OT", "SNr", "SI"],  # basal ganglia
     ["BLA", "BMA", "EP", "EPd", "MEA"],  # cortical subplate
 ]
+test = "a"
