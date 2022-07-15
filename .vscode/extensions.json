@@ -2,6 +2,7 @@
   "recommendations": [
     "christian-kohler.path-intellisense",
     "ms-python.python",
-    "oderwat.indent-rainbow"
+    "oderwat.indent-rainbow",
+    "donjayamanne.githistory"
   ]
 }

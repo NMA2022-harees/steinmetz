@@ -2,9 +2,9 @@
 
 ## Get started
 
-1. `pip3 -m venv venv`
+1. `python3 -m venv venv`
 2. Activate
-3. `pip install -r requirements.txt`
+3. `pip3 install -r requirements.txt`
 4. When finish your jobs: `deactivate`
 
 | Platform | Shell           | Command to activate virtual environment |
