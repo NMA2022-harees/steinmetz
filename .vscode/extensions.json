@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "christian-kohler.path-intellisense",
+    "ms-python.python",
+    "oderwat.indent-rainbow"
+  ]
+}

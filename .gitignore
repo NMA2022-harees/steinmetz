@@ -1,0 +1,3 @@
+venv
+*.npz
+__pycache__

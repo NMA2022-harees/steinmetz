@@ -1,0 +1,5 @@
+figure.figsize: 20, 4
+figure.autolayout: True
+font.size: 15
+axes.spines.top: False
+axes.spines.right: False
