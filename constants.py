@@ -1,3 +1,5 @@
+from itertools import product
+
 regions = ["vis ctx", "thal", "hipp", "other ctx", "midbrain", "basal ganglia", "cortical subplate", "other"]
 region_colors = ["blue", "red", "green", "darkblue", "violet", "lightblue", "orange", "gray"]
 brain_groups = [
@@ -9,4 +11,5 @@ brain_groups = [
     ["ACB", "CP", "GPe", "LS", "LSc", "LSr", "MS", "OT", "SNr", "SI"],  # basal ganglia
     ["BLA", "BMA", "EP", "EPd", "MEA"],  # cortical subplate
 ]
-test = "a"
+contrasts = [0.0, 0.25, 0.5, 1.0]
+contrast_pairs = list(product(contrasts, contrasts))
