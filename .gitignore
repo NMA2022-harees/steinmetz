@@ -1,3 +1,5 @@
 venv
 *.npz
 __pycache__
+
+.idea
